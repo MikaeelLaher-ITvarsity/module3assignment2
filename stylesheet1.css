@@ -1,0 +1,102 @@
+.main-item{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: aqua;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid rgb(255, 255, 255);
+    display: block;
+    margin: auto;
+    margin-bottom: 70px;
+    width: 80%;
+    margin-top: 50px;
+}
+.main-body{
+    background: url('images restaurant/food+background+for+restaurant+menu-3.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.body-meals{
+    background: url('images restaurant/food+background+for+restaurant+menu-3.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.body-bg{
+    background: url('images restaurant/pine-wood-texture_1194-5374.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.meals-list-item{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: aqua;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid rgb(255, 255, 255);
+    display: block;
+    margin: auto;
+    margin-bottom: 70px;
+    width: 80%;
+    margin-top: 50px;
+}
+.meals-list a{
+    text-decoration: none;
+}
+
+.images-details{
+    text-align: center;
+}
+.images-details img{
+    width: 20%;
+    text-align: center;
+}
+H1{
+    color: #04e3f3;
+    text-align: center;
+}
+H2{
+    text-decoration: underline;
+}
+
+.details{
+    color: rgb(0, 10, 3);
+    text-align: left;
+    font-size: 12px;
+}
+ .order{
+    align-items: left;
+ }
+ 
+ .write{
+    color: rgb(12, 12, 12);
+    border: 5px solid #04e3f3;
+ }
+
+ textarea{
+    width: 100%;
+    height :50px;
+    margin : 12px 0;
+    border : 1px solid #929292;
+}
+.button{
+    float: left top;
+    color: red;
+}
+
+.logo{
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-size: 45px;
+    background-color: grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
